@@ -1,14 +1,12 @@
-This is the README file.
+Used Cars Price Prediction
 
-# **Used Cars Price Prediction**
+Problem Definition
 
-## **Problem Definition**
-
-### **The Context:**
+The Context:
 
  - Why is this problem important to solve?
 
-### **The objective:**
+The objective:
 
  - What is the intended goal?
 
